@@ -1,6 +1,6 @@
 # Hi there, I'm Evans! 👋
 
-![Banner Image]([your_banner_image_url_here](https://raw.githubusercontent.com/24381-a11y/24381-a11y/7ab33b8168c42ee4a016f037bdc9746ccdcec9b9/my%20banner%20image.png))
+![Banner Image](https://raw.githubusercontent.com/24381-a11y/24381-a11y/7ab33b8168c42ee4a016f037bdc9746ccdcec9b9/my%20banner%20image.png))
 
 ## About Me 🚀
 
