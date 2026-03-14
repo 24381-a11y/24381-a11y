@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **web developer** with experience in **html css JavaScript and react**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **web developer** with experience in **html css JavaScript, react and Node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[bootstrap,LambdaTest and digitalOcean and n8n automation s]**
 - 🔭 Working on: **github**
